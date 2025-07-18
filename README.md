@@ -1,16 +1,24 @@
-## Hi there 👋
+# Wilson Florez Gamboa 👨‍💻
 
-<!--
-**GGamigo15/GGamigo15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Colombia  
+🔗 [LinkedIn](https://www.linkedin.com/in/wilson-florez-gamboa-dev)  
 
-Here are some ideas to get you started:
+## 👋 Sobre Mí  
+¡Hola! Soy Wilson Florez Gamboa, un apasionado desarrollador de software en formación.  
+Actualmente estoy enfocado en aprender y crecer en el mundo del desarrollo.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Habilidades Técnicas  
+*(Próximamente...)*  
+
+## 🎓 Educación  
+*(Próximamente...)*  
+
+## 💼 Experiencia  
+*(Próximamente...)*  
+
+## 🌟 Proyectos  
+*(Próximamente...)*  
+
+## 📌 Objetivos  
+- Consolidar mis conocimientos en desarrollo de software.  
+- Contribuir a proyectos innovadores.  
