@@ -1,7 +1,7 @@
 # Wilson Florez Gamboa 👨‍💻
 
 📍 Colombia  
-🔗 [LinkedIn](https://www.linkedin.com/in/wilson-florez-gamboa-dev)  
+🔗 <a href="https://www.linkedin.com/in/wilson-florez-gamboa-dev" target="_blank">LinkedIn</a> 
 
 ## 👋 Sobre Mí  
 ¡Hola! Soy Wilson Florez Gamboa, un apasionado desarrollador de software en formación.  
