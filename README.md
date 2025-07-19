@@ -1,25 +1,32 @@
-# Wilson Florez Gamboa 👨‍💻
+# Wilson Florez Gamboa 👨‍💻  
 
 📍 Colombia  
 🔗 [LinkedIn](https://www.linkedin.com/in/wilson-florez-gamboa-dev)
 
-## 👋 Sobre Mí  
-¡Hola! Soy Wilson Florez Gamboa, un apasionado desarrollador de software en formación.  
-Actualmente estoy enfocado en aprender y crecer en el mundo del desarrollo.  
+## 👋 About Me  
+IT professional transitioning to Software Engineering with hands-on experience in systems support and digital transformation. Currently pursuing my degree while working in tech operations.
 
-## 🛠 Habilidades Técnicas  
-- Git y Github (70%)
-- HTML, CSS, JavaScript (en aprendizaje).
+## 🛠 Technical Skills  
+- **Version Control:** Git & GitHub
+- **Frontend Basics:** HTML, CSS, JavaScript (Learning)
+- **IT Systems:** GLPI Helpdesk, ERP Migration, Technical Support  
 
-## 🎓 Educación  
-*(Próximamente...)*  
+## 🎓 Education  
+- **Software Engineering**, Uniminuto (2024 - Present)  
+  - Currently learning: Object-Oriented Programming, Algorithms, and Software Development.  
+- **Systems Technician**, SENA (2021)  
+  - Hardware maintenance, networking, and software fundamentals.  
 
-## 💼 Experiencia  
-*(Próximamente...)*  
+## 💼 Experience  
+### **IT Systems Assistant**  2021 - Present  
+- Implemented and structured **GLPI Helpdesk** system, improving ticket resolution time by 30%  
+- Led **ERP system migration**, including data transfer and user training  
+- Provide technical support for 50+ users, managing hardware/software issues
 
-## 🌟 Proyectos  
-*(Próximamente...)*  
+## 🌟 Projects  
+*(Coming soon...)*  
 
-## 📌 Objetivos  
-- Consolidar mis conocimientos en desarrollo de software.  
-- Contribuir a proyectos innovadores.
+## 📌 Goals  
+- Bridge my IT operations experience with software development skills  
+- Develop enterprise-grade applications  
+- Contribute to open-source IT management tools  
