@@ -8,7 +8,8 @@
 Actualmente estoy enfocado en aprender y crecer en el mundo del desarrollo.  
 
 ## 🛠 Habilidades Técnicas  
-*(Próximamente...)*  
+- Git y Github (70%)
+- HTML, CSS, JavaScript (en aprendizaje).
 
 ## 🎓 Educación  
 *(Próximamente...)*  
@@ -21,4 +22,4 @@ Actualmente estoy enfocado en aprender y crecer en el mundo del desarrollo.
 
 ## 📌 Objetivos  
 - Consolidar mis conocimientos en desarrollo de software.  
-- Contribuir a proyectos innovadores.  
+- Contribuir a proyectos innovadores.
